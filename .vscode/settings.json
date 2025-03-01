@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.diagnostics.disabled": [
+        "unused-imports",
+        "unused-fields",
+        "unused-variables"
+    ]
+}
